@@ -1,3 +1,8 @@
+
+## Screenshot
+<img src=".\images\spiderman1.png"/>
+<img src=".\images\spiderman2.png"/>
+<img src=".\images\avengers.png"/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
