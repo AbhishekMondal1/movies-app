@@ -1,8 +1,8 @@
 
 ## Screenshot
-<img src=.\images\spiderman1.png width="300"/>
-<img src=.\images\spiderman2.png width="300"/>
-<img src=.\images\avengers1.png width="300"/>
+<img src=.\images\spiderman1.png width="700"/>
+<img src=.\images\spiderman2.png width="700"/>
+<img src=.\images\avengers1.png width="700"/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
